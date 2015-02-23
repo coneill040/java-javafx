@@ -1,9 +1,5 @@
-#Topic 2 Title
+#The Basics
 
-- At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti. 
-
-- Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus
-
-- Omnis voluptas assumenda est, omnis dolor repellendus. 
+- The best way to teach you what it is like to create and build a JavaFX application is with a “Hello World” application. An added benefit of this tutorial is that it enables you to test that your JavaFX technology is properly installed.
 
  
